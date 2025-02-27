@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "OzGeDct1bdvHbcwcZNWnMAhofV634JfeAbgKlGY5K3M=",
+  "Hash": "wRO19CBBBJzY22itBEQa2DY+nD0mdkBz4OmnEGlYPAI=",
   "Source": "WebApplication4",
   "BasePath": "_content/WebApplication4",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication4\\wwwroot",
+      "Source": "WebApplication4",
+      "ContentRoot": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\wwwroot\\",
+      "BasePath": "_content/WebApplication4",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

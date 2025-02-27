@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Migrations\\20250227002346_CreatedBooksTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250227002346_CreatedBooksTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\data\\medicinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:data\\medicinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\dtos\\doctor\\doctorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +41,94 @@
     {
       "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\dtos\\doctor\\doctorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:dtos\\doctor\\doctorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\data\\configurations\\bookauthorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:data\\configurations\\bookauthorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\dtos\\accounts\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:dtos\\accounts\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\dtos\\accounts\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:dtos\\accounts\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\profiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:profiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\dtos\\books\\bookreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:dtos\\books\\bookreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\dtos\\books\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:dtos\\books\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\dtos\\doctor\\doctorreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:dtos\\doctor\\doctorreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\dtos\\department\\departmentreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:dtos\\department\\departmentreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\mappers\\doctormappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:mappers\\doctormappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\entities\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:entities\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\webapplication4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:webapplication4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\dtos\\department\\departmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,36 +143,12 @@
       "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:migrations\\20250220004208_createddepartmentsdoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\data\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:data\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\data\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:data\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|c:\\users\\shahla\\source\\repos\\webapplication4\\webapplication4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{361001EC-FE6E-43B4-9F1A-81D61BF37779}|WebApplication4.csproj|solutionrelative:webapplication4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,66 +163,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "Controllers\\DoctorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Title": "20250227002346_CreatedBooksTable.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Migrations\\20250227002346_CreatedBooksTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250227002346_CreatedBooksTable.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Migrations\\20250227002346_CreatedBooksTable.cs",
+              "RelativeToolTip": "Migrations\\20250227002346_CreatedBooksTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:50:20.799Z",
+              "WhenOpened": "2025-02-27T00:23:46.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DoctorUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Doctor\\DoctorUpdateDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Doctor\\DoctorUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Doctor\\DoctorUpdateDto.cs",
-              "RelativeToolTip": "Dtos\\Doctor\\DoctorUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T00:18:20.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\ServiceRegistration.cs",
+              "RelativeToolTip": "ServiceRegistration.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:48:13.986Z",
+              "WhenOpened": "2025-02-27T00:11:20.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DoctorCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Doctor\\DoctorCreateDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Doctor\\DoctorCreateDto.cs",
-              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Doctor\\DoctorCreateDto.cs",
-              "RelativeToolTip": "Dtos\\Doctor\\DoctorCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:48:04.087Z",
+              "WhenOpened": "2025-02-27T00:06:58.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DepartmentUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Department\\DepartmentUpdateDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Department\\DepartmentUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Department\\DepartmentUpdateDto.cs",
-              "RelativeToolTip": "Dtos\\Department\\DepartmentUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:47:55.203Z",
+              "WhenOpened": "2025-02-20T00:39:49.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:43:03.588Z",
+              "WhenOpened": "2025-02-27T00:04:37.959Z",
               "EditorCaption": ""
             },
             {
@@ -149,118 +246,287 @@
               "RelativeDocumentMoniker": "Data\\MedicineDbContext.cs",
               "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Data\\MedicineDbContext.cs",
               "RelativeToolTip": "Data\\MedicineDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T00:34:33.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DepartmentCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Department\\DepartmentCreateDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Department\\DepartmentCreateDto.cs",
-              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Department\\DepartmentCreateDto.cs",
-              "RelativeToolTip": "Dtos\\Department\\DepartmentCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:47:45.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250220004208_CreatedDepartmentsDoctors.cs",
-              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Migrations\\20250220004208_CreatedDepartmentsDoctors.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250220004208_CreatedDepartmentsDoctors.cs",
-              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Migrations\\20250220004208_CreatedDepartmentsDoctors.cs",
-              "RelativeToolTip": "Migrations\\20250220004208_CreatedDepartmentsDoctors.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:42:08.544Z",
+              "WhenOpened": "2025-02-27T00:10:39.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Title": "DoctorCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Doctor\\DoctorCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Doctor\\DoctorCreateDto.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Doctor\\DoctorCreateDto.cs",
+              "RelativeToolTip": "Dtos\\Doctor\\DoctorCreateDto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:39:49.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-20T00:39:10.468Z",
+              "WhenOpened": "2025-02-20T00:48:04.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "DoctorConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Data\\Configurations\\DoctorConfiguration.cs",
-              "RelativeDocumentMoniker": "Data\\Configurations\\DoctorConfiguration.cs",
-              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Data\\Configurations\\DoctorConfiguration.cs",
-              "RelativeToolTip": "Data\\Configurations\\DoctorConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:37:39.033Z",
+              "WhenOpened": "2025-02-27T00:09:21.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Doctor\\DoctorUpdateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Doctor\\DoctorUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Doctor\\DoctorUpdateDto.cs",
+              "RelativeToolTip": "Dtos\\Doctor\\DoctorUpdateDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:48:13.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "DepartmentConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Data\\Configurations\\DepartmentConfiguration.cs",
-              "RelativeDocumentMoniker": "Data\\Configurations\\DepartmentConfiguration.cs",
-              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Data\\Configurations\\DepartmentConfiguration.cs",
-              "RelativeToolTip": "Data\\Configurations\\DepartmentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
+              "Title": "JwtSetting.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\JwtSetting.cs",
+              "RelativeDocumentMoniker": "JwtSetting.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\JwtSetting.cs",
+              "RelativeToolTip": "JwtSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:35:40.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\Department.cs",
-              "RelativeDocumentMoniker": "Entities\\Department.cs",
-              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\Department.cs",
-              "RelativeToolTip": "Entities\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:33:28.398Z",
+              "WhenOpened": "2025-02-27T00:07:18.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "BookAuthorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Data\\Configurations\\BookAuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\BookAuthorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Data\\Configurations\\BookAuthorConfiguration.cs",
+              "RelativeToolTip": "Data\\Configurations\\BookAuthorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:56:02.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Accounts\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Accounts\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Accounts\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\Accounts\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:54:36.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Accounts\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Accounts\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Accounts\\RegisterDto.cs",
+              "RelativeToolTip": "Dtos\\Accounts\\RegisterDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:53:24.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Books\\BookReturnDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Books\\BookReturnDto.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Books\\BookReturnDto.cs",
+              "RelativeToolTip": "Dtos\\Books\\BookReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:51:52.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Books\\BookCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Books\\BookCreateDto.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Books\\BookCreateDto.cs",
+              "RelativeToolTip": "Dtos\\Books\\BookCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:50:34.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:50:20.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Helpers\\FileManager.cs",
+              "RelativeDocumentMoniker": "Helpers\\FileManager.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Helpers\\FileManager.cs",
+              "RelativeToolTip": "Helpers\\FileManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:48:32.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DoctorReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Doctor\\DoctorReturnDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Doctor\\DoctorReturnDto.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Doctor\\DoctorReturnDto.cs",
+              "RelativeToolTip": "Dtos\\Doctor\\DoctorReturnDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:46:36.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Department\\DepartmentReturnDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Department\\DepartmentReturnDto.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Department\\DepartmentReturnDto.cs",
+              "RelativeToolTip": "Dtos\\Department\\DepartmentReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:44:56.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Profiles\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Profiles\\MapperProfile.cs",
+              "RelativeToolTip": "Profiles\\MapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:41:44.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\Book.cs",
+              "RelativeToolTip": "Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:38:36.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\Author.cs",
+              "RelativeToolTip": "Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:37:56.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorMappers.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Mappers\\DoctorMappers.cs",
+              "RelativeDocumentMoniker": "Mappers\\DoctorMappers.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Mappers\\DoctorMappers.cs",
+              "RelativeToolTip": "Mappers\\DoctorMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:26:03.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\BookAuthor.cs",
+              "RelativeDocumentMoniker": "Entities\\BookAuthor.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\BookAuthor.cs",
+              "RelativeToolTip": "Entities\\BookAuthor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:38:54.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:35:46.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\Doctor.cs",
               "RelativeDocumentMoniker": "Entities\\Doctor.cs",
               "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\Doctor.cs",
               "RelativeToolTip": "Entities\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T00:32:48.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Entities\\BaseEntity.cs",
@@ -273,16 +539,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "WebApplication4",
+              "DocumentIndex": 30,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Entities\\Department.cs",
+              "RelativeToolTip": "Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:33:28.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WebApplication4.csproj",
               "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\WebApplication4.csproj",
               "RelativeDocumentMoniker": "WebApplication4.csproj",
               "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\WebApplication4.csproj",
               "RelativeToolTip": "WebApplication4.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-20T00:29:22.128Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:43:03.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DepartmentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Department\\DepartmentUpdateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Department\\DepartmentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Department\\DepartmentUpdateDto.cs",
+              "RelativeToolTip": "Dtos\\Department\\DepartmentUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:47:55.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DepartmentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Department\\DepartmentCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Department\\DepartmentCreateDto.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Dtos\\Department\\DepartmentCreateDto.cs",
+              "RelativeToolTip": "Dtos\\Department\\DepartmentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:47:45.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250220004208_CreatedDepartmentsDoctors.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Migrations\\20250220004208_CreatedDepartmentsDoctors.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250220004208_CreatedDepartmentsDoctors.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Migrations\\20250220004208_CreatedDepartmentsDoctors.cs",
+              "RelativeToolTip": "Migrations\\20250220004208_CreatedDepartmentsDoctors.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:42:08.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DoctorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Data\\Configurations\\DoctorConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\DoctorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Data\\Configurations\\DoctorConfiguration.cs",
+              "RelativeToolTip": "Data\\Configurations\\DoctorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:37:39.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\Shahla\\source\\repos\\WebApplication4\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "Data\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:35:40.484Z"
             }
           ]
         },
